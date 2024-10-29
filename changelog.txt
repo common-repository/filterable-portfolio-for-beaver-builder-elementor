@@ -1,0 +1,131 @@
+= V 1.5.2 - 06 April 2024 =
+
+- Fixed: Fixed Filter issues update js.
+
+
+= V 1.5.1 - 29 December 2023 =
+
+- Improved: Updated portfolio styles.
+
+
+= V 1.4.4.1 - 23 March 2023 =
+
+- Improved: Enhance entrance animation of preview popup.
+
+
+= V 1.4.4 - 22 March 2023 =
+
+- Improved: Update Dashboard Menu.
+
+
+= V 1.4.3 - 17 March 2023 =
+
+- Improved: Add Dynamic Filters to Xpro Addons Dashboard.
+
+
+= V 1.4.2 - 15 March 2023 =
+
+- Updated:  Update Dashboard Styles
+
+
+= V 1.4.1 - 01 February 2023 =
+
+- Updated:  Update Dashboard Styles
+
+
+= V 1.4.0 - 29 January 2023 =
+
+- Updated:  Update Industry Filters in Dashboard
+
+
+= V 1.3.3 - 05 Feb 2021 =
+
+- Improved: Fix compatibility when importing templates
+
+
+= V 1.3.2 - 24 January 2021 =
+
+- Fixed:    Fix module issues upgrading to Xpro
+
+
+= V 1.3.1 - 22 January 2021 =
+
+- Improved: Fixed portfolio styles.
+
+
+= V 1.3.0 - 05 January 2021 =
+
+- Improved: Update To BB Xpro Addons.
+
+
+= V 1.2.0 - 01 December 2020 =
+
+- Improved: Remove Popup Styles.
+
+
+= V 1.1.2 - 30 November 2020 =
+
+- Updated:  Update Template Library.
+
+
+= V 1.1.1 - 25 November 2020 =
+
+- Added:    Improve styles and layouts.
+- Added:    Add 6 portfolio styles.
+- Added:    Add 8 Popup Styles.
+- Added:    Add Filters animations and styles.
+- Added:    Add option for multiple filters on single item.
+
+
+= V 1.0.7 - 03 September 2019 =
+
+- Added: Add external link option.
+
+
+= V 1.0.6 - 22 August 2019 =
+
+- Improved: Improved popup layout.
+
+
+= V 1.0.5 - 10 July 2019 =
+
+- Fixed:    Fixed popup scroll issue.
+
+
+= V 1.0.4 - 09 July 2019 =
+
+- Added:    Added unit field for 'Number of Items'.
+- Added:    Added custom grid system and removed Bootstrap support.
+
+
+= V 1.0.3 - 31 May 2019 =
+
+- Added:    Added beaver builder's new fields and CSS rules.
+- Added:    Added nested form for "More Info Tabs".
+- Added:    Added default image placeholder for "Featured Image".
+- Added:    Added alt attribute for "FeatImage".ured 
+
+
+= V 1.0.2 - 03 January 2019 =
+
+- Added:    Added preview while editing “Detail Page Styles”.
+- Added:    Added background color opacity in the popup.
+- Improved: Removed useless HTML from frontend structure.
+- Improved: Removed extra CSS from the frontend style sheet.
+- Fixed:    Detail Page popup was overriding WordPress admin top bar.
+- Fixed:    Detail Page slider navigation arrows were not visible.
+
+
+= V 1.0.1 - 26 December 2018 =
+
+- Updated:  Updated portfolio styles.
+
+
+= V 1.0.0 - 24 December 2018 =
+
+- Updated:  Updated portfolio styles.
+
+
+= 0.1.0 - 12 December 2018 =
+
+- Initial Release

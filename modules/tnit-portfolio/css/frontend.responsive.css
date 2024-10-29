@@ -1,0 +1,82 @@
+/*Responsive Css*/
+
+.tnit-popup-style-1.lg-outer .lg-sub-html {
+    max-width: 100%;
+    text-align: center;
+    left: 0;
+    padding: 10px 15px;
+    background-color: rgba(0, 0, 0, 0.45);
+    top: auto;
+    bottom: 130px !important;
+}
+
+.tnit-popup-style-1 .lg-sub-html > p{
+    font-size: 16px;
+}
+
+.tnit-popup-style-1.lg-outer .lg-thumb-outer{
+    max-width: 415px;
+}
+
+.tnit-popup-style-3.lg-outer .lg-thumb-outer{
+    max-width: 415px;
+}
+
+.tnit-popup-style-4.lg-outer .lg-sub-html {
+    max-width: 100%;
+    text-align: center;
+    left: 0;
+    padding: 10px 15px;
+    background-color: rgba(0, 0, 0, 0.45);
+    top: auto;
+    bottom: 130px !important;
+}
+
+.tnit-popup-style-4.lg-outer .lg-thumb-outer{
+    max-width: 400px;
+}
+
+.tnit-popup-style-4 .lg-sub-html > p{
+    font-size: 16px;
+}
+
+.tnit-popup-style-2 .lg-sub-html > p{
+    font-size: 16px;
+}
+
+.tnit-popup-style-2.lg-outer.lg-outer .lg-thumb-outer{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.lg-toolbar .lg-icon {
+    font-size: 20px;
+    height: 40px;
+    padding: 5px 0;
+    width: 35px;
+}
+
+.tnit-popup-style-1 #lg-counter {
+    padding: 4px 10px;
+}
+
+.lg-outer .lg-thumb-item{
+    margin-right: 9px !important;
+}
+
+.gallery.masonry .items {
+    max-width: 100%;
+    -webkit-box-flex: 1;
+    -ms-flex: 1 1 100%;
+    flex: 1 1 100%;
+}
+
+
+
+/* adminbar Css */
+.admin-bar .lg-outer:not(.tnit-popup-style-3) {
+    padding-top: 46px;
+}
+.admin-bar .tnit-popup-style-1.lg-outer .lg-sub-html, .admin-bar .tnit-popup-style-4.lg-outer .lg-sub-html {
+    padding-top: 10px;
+}
